@@ -1,0 +1,26 @@
+{
+    "Item_Type": "Biscuit",
+    "Item_Pair": "Hot_Drinks",
+    "Items": [
+        {
+            "Item_Name": "Fita",
+            "Item_Price": 3,
+            "Item_Stock": 5
+        },
+        {
+            "Item_Name": "Ritz",
+            "Item_Price": 3,
+            "Item_Stock": 5
+        },
+        {
+            "Item_Name": "Oreo",
+            "Item_Price": 4,
+            "Item_Stock": 5
+        },
+        {
+            "Item_Name": "Chips Ahoy",
+            "Item_Price": 6,
+            "Item_Stock": 5
+        }
+    ]
+}
