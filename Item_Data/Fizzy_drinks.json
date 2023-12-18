@@ -1,0 +1,46 @@
+{
+    "Item_Type": "Fizzy_drinks",
+    "Item_Pair": "Chips",
+    "Items": [
+        {
+            "Item_Name": "Pepsi",
+            "Item_Price": 2,
+            "Item_Stock": 5
+        },
+        {
+            "Item_Name": "Coco-Cola",
+            "Item_Price": 2,
+            "Item_Stock": 5
+        },
+        {
+            "Item_Name": "Sprite",
+            "Item_Price": 2,
+            "Item_Stock": 5
+        },
+        {
+            "Item_Name": "7up",
+            "Item_Price": 2,
+            "Item_Stock": 5
+        },
+        {
+            "Item_Name": "Marinda",
+            "Item_Price": 2,
+            "Item_Stock": 5
+        },
+        {
+            "Item_Name": "Fanta",
+            "Item_Price": 2,
+            "Item_Stock": 5
+        },
+        {
+            "Item_Name": "Coco-Cola",
+            "Item_Price": 2,
+            "Item_Stock": 5
+        },
+        {
+            "Item_Name": "Ginger Ale",
+            "Item_Price": 3,
+            "Item_Stock": 5
+        }
+    ]
+}
