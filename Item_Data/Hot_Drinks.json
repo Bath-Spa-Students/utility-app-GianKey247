@@ -1,0 +1,41 @@
+{
+    "Item_Type": "Hot_Drinks",
+    "Item_Pair": "Biscuit",
+    "Items": [
+        {
+            "Item_Name": "Esspresso",
+            "Item_Price": 3,
+            "Item_Stock": 5
+        },
+        {
+            "Item_Name": "Americano",
+            "Item_Price": 3,
+            "Item_Stock": 4
+        },
+        {
+            "Item_Name": "Black Coffee",
+            "Item_Price": 3,
+            "Item_Stock": 5
+        },
+        {
+            "Item_Name": "Latte",
+            "Item_Price": 3,
+            "Item_Stock": 5
+        },
+        {
+            "Item_Name": "Mocha",
+            "Item_Price": 3,
+            "Item_Stock": 5
+        },
+        {
+            "Item_Name": "Hot-Chocolate",
+            "Item_Price": 2,
+            "Item_Stock": 5
+        },
+        {
+            "Item_Name": "Green Tea",
+            "Item_Price": 5,
+            "Item_Stock": 5
+        }
+    ]
+}
