@@ -1,0 +1,36 @@
+{
+    "Item_Type": "Chips",
+    "Item_Pair": "Fizzy_drinks",
+    "Items": [
+        {
+            "Item_Name": "Lays",
+            "Item_Price": 1,
+            "Item_Stock": 5
+        },
+        {
+            "Item_Name": "Doritos",
+            "Item_Price": 2,
+            "Item_Stock": 5
+        },
+        {
+            "Item_Name": "Cheetos",
+            "Item_Price": 2,
+            "Item_Stock": 5
+        },
+        {
+            "Item_Name": "Pringles",
+            "Item_Price": 3,
+            "Item_Stock": 5
+        },
+        {
+            "Item_Name": "Takis",
+            "Item_Price": 2,
+            "Item_Stock": 5
+        },
+        {
+            "Item_Name": "Salad Chips",
+            "Item_Price": 1,
+            "Item_Stock": 5
+        }
+    ]
+}
